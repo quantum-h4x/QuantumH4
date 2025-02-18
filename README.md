@@ -5,7 +5,7 @@ Hey there! I'm **Quantum_H4x**, an **Ethical Hacker** dedicated to securing digi
 With expertise in **penetration testing, vulnerability assessment, and security tool development**, I strive to make the online world a safer place—one exploit at a time.  
 
 ## 🛠️ Skills  
-- **Programming:** `Python`, `JavaScript`, `HTML/CSS`  
+- **Programming:** `Python`, `JavaScript`  
 - **Cybersecurity:** `Penetration Testing`, `OSINT`, `Exploit Development`  
 - **Hacking Tools:** `Kali Linux`, `Metasploit`, `Nmap`, `Burp Suite`  
 
